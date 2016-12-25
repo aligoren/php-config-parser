@@ -1,4 +1,4 @@
-# php-config-parser
+# PHP Config Parser
 
 PHP Config Class. Simple, Fast and Useful
 
