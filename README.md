@@ -10,7 +10,7 @@ Current `Settings.php` file include most common options. But if you want to cust
 // Settings.php
 
 return [
-  'myxample' => 'This is my example'
+  'myxample' => 'This is my example',
   'nested'  => [
     'example' => 'Good Part',
     'deep' => [
