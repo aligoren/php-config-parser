@@ -10,7 +10,7 @@ class Config {
 				if (isset($config[$each])) {
 					$config = $config[$each];
 				} else {
-					echo "$each Key Not Found";
+					echo "$each Key Not Found..";
 					return false;
 				}
 			}
